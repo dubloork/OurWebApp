@@ -1,0 +1,11 @@
+C:\Code\AzureDeploy\github\OurWebApp.Web\bin\Release\netcoreapp2.0\OurWebApp.Web.deps.json
+C:\Code\AzureDeploy\github\OurWebApp.Web\bin\Release\netcoreapp2.0\OurWebApp.Web.runtimeconfig.json
+C:\Code\AzureDeploy\github\OurWebApp.Web\bin\Release\netcoreapp2.0\OurWebApp.Web.runtimeconfig.dev.json
+C:\Code\AzureDeploy\github\OurWebApp.Web\bin\Release\netcoreapp2.0\OurWebApp.Web.dll
+C:\Code\AzureDeploy\github\OurWebApp.Web\bin\Release\netcoreapp2.0\OurWebApp.Web.pdb
+C:\Code\AzureDeploy\github\OurWebApp.Web\obj\Release\netcoreapp2.0\OurWebApp.Web.csprojAssemblyReference.cache
+C:\Code\AzureDeploy\github\OurWebApp.Web\obj\Release\netcoreapp2.0\OurWebApp.Web.csproj.CoreCompileInputs.cache
+C:\Code\AzureDeploy\github\OurWebApp.Web\obj\Release\netcoreapp2.0\OurWebApp.Web.AssemblyInfoInputs.cache
+C:\Code\AzureDeploy\github\OurWebApp.Web\obj\Release\netcoreapp2.0\OurWebApp.Web.AssemblyInfo.cs
+C:\Code\AzureDeploy\github\OurWebApp.Web\obj\Release\netcoreapp2.0\OurWebApp.Web.dll
+C:\Code\AzureDeploy\github\OurWebApp.Web\obj\Release\netcoreapp2.0\OurWebApp.Web.pdb

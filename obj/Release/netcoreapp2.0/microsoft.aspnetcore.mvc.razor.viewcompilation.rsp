@@ -1,0 +1,12 @@
+C:\Code\AzureDeploy\github\OurWebApp.Web
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=OurWebApp.Web
+--content-root=C:\Code\AzureDeploy\github\OurWebApp.Web
+--file=C:\Code\AzureDeploy\github\OurWebApp.Web\Pages\About.cshtml
+--file=C:\Code\AzureDeploy\github\OurWebApp.Web\Pages\Contact.cshtml
+--file=C:\Code\AzureDeploy\github\OurWebApp.Web\Pages\Error.cshtml
+--file=C:\Code\AzureDeploy\github\OurWebApp.Web\Pages\Index.cshtml
+--file=C:\Code\AzureDeploy\github\OurWebApp.Web\Pages\_Layout.cshtml
+--file=C:\Code\AzureDeploy\github\OurWebApp.Web\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Code\AzureDeploy\github\OurWebApp.Web\Pages\_ViewImports.cshtml
+--file=C:\Code\AzureDeploy\github\OurWebApp.Web\Pages\_ViewStart.cshtml
